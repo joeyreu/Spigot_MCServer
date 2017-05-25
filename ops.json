@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "32ac8f89-7c84-4264-98de-7063d3d39694",
+    "name": "puffluff",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "bbbd4b85-b696-47b9-ac8b-62decd0043cb",
+    "name": "oxu_e",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "4bf5f787-1bb4-4492-8b8f-2439a30d1e5f",
+    "name": "MotherGord",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
